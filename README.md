@@ -35,7 +35,7 @@ Do the feature extraction internally and achieve higher accuracy.
 Deep learning model:
 Input	512	256	dropout	128	dropout	64	10	7
 
- 
+ ![alt text](http://url/to/img.png)
 
 Parametric Machine Learning Algorithms
 Assumptions can greatly simplify the learning process but can also limit what can be learned. Algorithms that simplify the function to a known form are called parametric machine learning algorithms.
