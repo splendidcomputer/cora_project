@@ -42,7 +42,7 @@ Mainly, we have used two categories of classical machine learning models
 The code to execute the above mensioned methods applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
 
 ### Deep Learning Model
-In this project we have used the [MultiLayer Perceptron (MLP)]([https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html](https://keras.io/examples/vision/mlp_image_classification/)) with five fully connected layers which itslef is a parametric model.
+In this project we have used the [MultiLayer Perceptron (MLP)](https://keras.io/examples/vision/mlp_image_classification/) with five fully connected layers which itslef is a parametric model.
 
 Neural networks do the feature extraction internally and achieve higher accuracy.
 The architecture of the Deep Learning model used in this project is illustrated in the following figure:
