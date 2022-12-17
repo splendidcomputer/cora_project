@@ -38,34 +38,39 @@ Mainly, we have two categories of classical machine learning models
 * K-Nearest Neighbors (KNN).
 
 ### Deep Learning Model
-* Multilayer Perceptron with five 
+* MultiLayer Perceptron (MLP) with five fully connected layers.
+
+Neural networks do the feature extraction internally and achieve higher accuracy.
+Deep learning model architecture used in this project:
+Input	512	256	dropout	128	dropout	64	10	7
+
+ ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
 
 Parametric vs non-parametric
 QDA: Features are colinear
 
-Feature Extraction methods
+## Feature Extraction methods
 
-Supervised: LDA
-Unsupervised: PCA
-Wrapper
+Feature Extraction methods can be divied into two main categories:
+
+* Wrapper;
+* Filter.
+
+
+### Wrapper
 In warper models, we use the ML model and add/remove features until we achieve the desired accuracy.
 
 •	Sequential forward feature selection (SFFS)  Has a high computational time
 •	Sequential backward feature selection (SBFS)
 
-Filter
+### Filter
 In filter methods we neglect the ML model and we only check if the features have linear dependence/relation
 •	Pearson correlation
 Filter methods are more appropriate 
 Wrapper methods have higher computational cost
 Wrapper methods have higher chacnes of overfitting
 
-Neural networks
-Do the feature extraction internally and achieve higher accuracy.
-Deep learning model:
-Input	512	256	dropout	128	dropout	64	10	7
 
- ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
 
 Parametric Machine Learning Algorithms
 Assumptions can greatly simplify the learning process but can also limit what can be learned. Algorithms that simplify the function to a known form are called parametric machine learning algorithms.
