@@ -3,7 +3,7 @@ Classification of scientific publications using various classifiers.
 
 ## Project Description
 
-The purpose of this project is to find the best machine learning algorithm to predict the scientific article classifications using the words availabe in the articles as features.
+The purpose of this project is to make a comparison between the classification performance of different machine learning algorithms in the categorization of the scientific articles using the words availabe in them articles as features.
 
 ### Dataset
 The Cora dataset consists of 2708 scientific publications classified into one of seven classes (`Case_Based`, `Genetic_Algorithms`, `Neural_Networks`, `Probabilistic_Methods`, `Reinforcement_Learning`, `Rule_Learning`, `Theory`). The citation network consists of 5429 links. Each publication in the dataset is described by a 0/1-valued word vector indicating the absence/presence of the corresponding word from the dictionary. The dictionary consists of 1433 unique words. The README file in the dataset provides more details.
