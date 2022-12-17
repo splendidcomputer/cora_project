@@ -26,7 +26,7 @@ Mainly, we have two categories of classical machine learning models
 **Parametric**
 *	Linear Support Vector Machine (SVM);
 * Linear Discriminat Analysis (LDA);
-* Quadratic Discriminat Analysis (QDA).
+* Quadratic Discriminat Analysis (QDA);
 * Gaussian Naive Bayes (GNB);
 * Multinomial Naive Bayes (MNB);
 * Logistic Regression (LR).
@@ -45,25 +45,30 @@ Deep learning model architecture used in this project:
 Input	512	256	dropout	128	dropout	64	10	7
 
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
+ 
+## Results
 
-Parametric vs non-parametric
+### Parametric vs non-parametric
 QDA: Features are colinear
 
-## Feature Extraction methods
+##
+
+### Feature Extraction methods
 
 Feature Extraction methods can be divied into two main categories:
 
 * Wrapper;
 * Filter.
 
-
-### Wrapper
+#### Wrapper
 In warper models, we use the ML model and add/remove features until we achieve the desired accuracy.
 
-•	Sequential forward feature selection (SFFS)  Has a high computational time
-•	Sequential backward feature selection (SBFS)
+•	Sequential Forward Feature Selection (SFFS)  Has a high computational time
+•	Sequential Backward Feature Selection (SBFS)
 
-### Filter
+We could use these approches
+
+#### Filter
 In filter methods we neglect the ML model and we only check if the features have linear dependence/relation
 •	Pearson correlation
 Filter methods are more appropriate 
