@@ -65,13 +65,13 @@ The comparison of the prediction results using classical machine learning modles
 
 * [Comparsion of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
 
-As you can see, among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
+As you can see, among classical machine learning models, non-parametric models perform slightly better than the parametric.
 
-### Deepl Learning
+### Deep Learning
 
-The classification Result using deep neural networks is also shown in the table below:
+The classification result using deep neural network is also shown in the table below:
 
-* [Classification results using Deep Neural Netwroks](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/NN_Test_ACC.tsv)
+* [Classification results using Deep Neural Network](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/NN_Test_ACC.tsv)
 
 ## Conclusion
 
