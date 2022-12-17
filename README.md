@@ -17,7 +17,7 @@ The purpose of this project is to find the best machine learning algorithm to pr
 
 ## Applied Classifiers
 
-The classifiers used in this project are:
+We can divide the classifiers used in this project into two categories of classical and Deep Learning Models.
 
 ### Classical Machine Learning Models
 We have applied the sklearn library for the classical Machine Learning models.
@@ -38,7 +38,7 @@ Mainly, we have two categories of classical machine learning models
 * K-Nearest Neighbors (KNN).
 
 ### Deep Learning Model
-* MultiLayer Perceptron (MLP) with five fully connected layers.
+In this project we have used the MultiLayer Perceptron (MLP) with five fully connected layers which itslef is a parametric model.
 
 Neural networks do the feature extraction internally and achieve higher accuracy.
 Deep learning model architecture used in this project:
@@ -47,6 +47,8 @@ Input	512	256	dropout	128	dropout	64	10	7
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
  
 ## Results
+
+For this problem, in general, among classical machine learning models, non-parametric models perfrom slightly better than the parametric 
 
 ### Parametric vs non-parametric
 QDA: Features are colinear
