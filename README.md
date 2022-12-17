@@ -58,6 +58,8 @@ Input	512	256	dropout	128	dropout	64	10	7
 
 For this problem, in general, among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
 
+You can see the whole TSV files, containing all classifiction results in this [directory](https://github.com/splendidcomputer/cora_project/tree/main/Prediction_Results).
+
 The comparison of the prediction results using classical machine learning modles can be found through the following link:
 
 * [Comparsion of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
