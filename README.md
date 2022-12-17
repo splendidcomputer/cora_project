@@ -46,7 +46,6 @@ In this project we have used the [MultiLayer Perceptron (MLP)](https://scikit-le
 
 Neural networks do the feature extraction internally and achieve higher accuracy.
 The architecture of the Deep Learning model used in this project is illustrated in the following figure:
-Input	512	256	dropout	128	dropout	64	10	7
 
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
  
