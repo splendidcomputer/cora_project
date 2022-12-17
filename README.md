@@ -49,6 +49,10 @@ Input	512	256	dropout	128	dropout	64	10	7
 
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
  
+ 
+ #### Execution of the Deep Learning Model
+ The code to execute deepl learning model applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
+ 
 ## Results
 
 For this problem, in general, among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
