@@ -38,7 +38,9 @@ Mainly, we have used two categories of classical machine learning models
 * K-Nearest Neighbors (KNN).
 
 #### Execution of the Classical Machine Learning Models
-The code to execute the above mensioned methods applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
+
+$\color{green}{The code to execute the above mensioned methods applied on the Cora data, can be found}$
+ [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
 
 ### Deep Learning Model
 In this project we have used the MultiLayer Perceptron (MLP) with five fully connected layers which itslef is a parametric model.
