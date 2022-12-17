@@ -61,11 +61,11 @@ You can see the whole prediction results in TSV files, containing all classifict
 
 ### Classical Machine Learning approaches
 
-The comparison of the prediction results using classical machine learning modles can be found through the following link:
+The comparison of the prediction results using classical machine learning modles can be accessed through the following link:
 
 * [Comparsion of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
 
-As you can see the among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
+As you can see, among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
 
 ### Deepl Learning
 
