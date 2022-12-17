@@ -25,11 +25,11 @@ Mainly, we have used two categories of classical machine learning models
 
 **Parametric**
 *	[Linear Support Vector Machine (SVM)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html);
-* Linear Discriminat Analysis (LDA);
-* Quadratic Discriminat Analysis (QDA);
-* Gaussian Naive Bayes (GNB);
-* Multinomial Naive Bayes (MNB);
-* Logistic Regression (LR).
+* [Linear Discriminat Analysis (LDA)] (https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html);
+* [Quadratic Discriminat Analysis (QDA)](https://scikit-learn.org/0.16/modules/generated/sklearn.qda.QDA.html);
+* [Gaussian Naive Bayes (GNB)](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html);
+* [Multinomial Naive Bayes (MNB)](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html);
+* [Logistic Regression (LR)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
 
 **Nan-parametric**
 * SVM with Radial Basis Function (RBF) kernel 
