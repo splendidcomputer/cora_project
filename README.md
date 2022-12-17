@@ -54,7 +54,7 @@ The comparison of the prediction results using classical machine learning modles
 
 https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv
 
- ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
+As you can see the among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
 
 
 ### Parametric vs non-parametric
