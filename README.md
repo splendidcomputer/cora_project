@@ -27,12 +27,15 @@ Mainly, we have two categories of classical machine learning models
 *	Linear Support Vector Machine (SVM);
 * Linear Discriminat Analysis (LDA);
 * Quadratic Discriminat Analysis (QDA).
-
-**Nan-parametric**
-* RBF kernel SVM
-* Random Forest (RF);
 * Gaussian Naive Bayes (GNB);
 * Multinomial Naive Bayes (MNB).
+
+**Nan-parametric**
+* SVM with Radial Basis Function (RBF) kernel 
+* Random Forest (RF);
+* eXtreme Gradient Boosting (XGBoost);
+* K-Nearest Neighbors (KNN)
+
 
 Parametric vs non-parametric
 QDA: Features are colinear
