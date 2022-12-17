@@ -51,7 +51,7 @@ The architecture of the Deep Learning model used in this project is illustrated 
  
  
  #### Execution of the Deep Learning Model
- The code to execute deepl learning model applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
+ The code to execute deep learning model applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
  
 ## Results
 
