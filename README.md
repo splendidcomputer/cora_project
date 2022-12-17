@@ -17,7 +17,7 @@ Related Papers:
 
 ## Applied Classifiers
 
-We can divide the classifiers used in this project into two categories of classical and Deep Learning Models.
+We can divide the classifiers used in this project into two categories of classical and deep learning models.
 
 ### Classical Machine Learning Models
 We have applied the sklearn library for the classical Machine Learning models.
