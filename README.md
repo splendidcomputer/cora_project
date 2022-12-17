@@ -72,4 +72,4 @@ The classification result using deep neural network is also shown in the table b
 
 ## Conclusion
 
-As can be seen from the classification performance results, the deep learning model achieves more promising results as it comes internally with feature extraction layers which provide the classification layer with a well class wisely separated space, and therefore it achieves higher accuracy in comparison with the classical models that do not have the feature extraction innately..
+As can be seen from the classification performance results, the deep learning model achieves more promising results as it comes internally with feature extraction layers which provide the classification layer with a well class wisely separated space, and therefore it achieves higher accuracy in comparison with the classical models that do not have the feature extraction innately.
