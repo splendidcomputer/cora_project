@@ -20,7 +20,7 @@ Related Papers:
 We can divide the classifiers used in this project into two categories of classical and deep learning models.
 
 ### Classical Machine Learning Models
-We have applied the [scikit-learn library](https://scikit-learn.org/stable/) for the classical Machine Learning models.
+We have applied the [scikit-learn library](https://scikit-learn.org/stable/) for the classical machine learning models.
 Mainly, we have two categories of classical machine learning models
 
 **Parametric**
