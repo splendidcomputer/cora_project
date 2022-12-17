@@ -28,14 +28,17 @@ Mainly, we have two categories of classical machine learning models
 * Linear Discriminat Analysis (LDA);
 * Quadratic Discriminat Analysis (QDA).
 * Gaussian Naive Bayes (GNB);
-* Multinomial Naive Bayes (MNB).
+* Multinomial Naive Bayes (MNB);
+* Logistic Regression (LR).
 
 **Nan-parametric**
 * SVM with Radial Basis Function (RBF) kernel 
 * Random Forest (RF);
 * eXtreme Gradient Boosting (XGBoost);
-* K-Nearest Neighbors (KNN)
+* K-Nearest Neighbors (KNN).
 
+### Deep Learning Model
+* Multilayer Perceptron with five 
 
 Parametric vs non-parametric
 QDA: Features are colinear
