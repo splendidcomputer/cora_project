@@ -23,7 +23,10 @@ The classifiers used in this project are:
 We have applied the sklearn library for the classical Machine Learning models.
 Mainly, we have two categories of classical machine learning models
 **Parametric**
-*	Support Vector Machine (SVM), * Linear Discriminat Analysis (LDA), * Quadratic Discriminat Analysis (QDA)	
+*	Support Vector Machine (SVM),
+* Linear Discriminat Analysis (LDA),
+* Quadratic Discriminat Analysis (QDA)
+
 **Nan-parametric**
 RF, GNB, MNB, Bayes
 
