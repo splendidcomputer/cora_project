@@ -74,4 +74,6 @@ The classification Result using deep neural networks is also shown in the table 
 
 * [Classification results using Deep Neural Netwroks](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/NN_Test_ACC.tsv)
 
-As you can see the deep learning model acheives more promising results as it comes internally with feature extraction layers which provide the classification layer with a well classwisely seperated space and therefore it acheives a higher accuracy in comparison with the classical models that do not have the feature extraction innately.
+## Conclusion
+
+As it can be seen from the classification performance results, the deep learning model acheives more promising results as it comes internally with feature extraction layers which provide the classification layer with a well classwisely seperated space and therefore it acheives a higher accuracy in comparison with the classical models that do not have the feature extraction innately.
