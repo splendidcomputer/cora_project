@@ -32,10 +32,10 @@ Mainly, we have used two categories of classical machine learning models
 * [Logistic Regression (LR)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
 
 **Nan-parametric**
-* SVM with Radial Basis Function (RBF) kernel 
-* Random Forest (RF);
-* eXtreme Gradient Boosting (XGBoost);
-* K-Nearest Neighbors (KNN).
+* [SVM with Radial Basis Function (RBF) kernel](https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
+* [Random Forest (RF)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html);
+* [eXtreme Gradient Boosting (XGBoost)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html);
+* [K-Nearest Neighbors (KNN)](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html).
 
 #### Execution of the Classical Machine Learning Models
 
