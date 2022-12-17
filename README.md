@@ -24,7 +24,7 @@ We have applied the [scikit-learn library](https://scikit-learn.org/stable/) for
 Mainly, we have used two categories of classical machine learning models
 
 **Parametric**
-*	Linear Support Vector Machine (SVM);
+*	[Linear Support Vector Machine (SVM)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html);
 * Linear Discriminat Analysis (LDA);
 * Quadratic Discriminat Analysis (QDA);
 * Gaussian Naive Bayes (GNB);
