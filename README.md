@@ -37,6 +37,8 @@ Mainly, we have two categories of classical machine learning models
 * eXtreme Gradient Boosting (XGBoost);
 * K-Nearest Neighbors (KNN).
 
+The code to execute the above mensioned methods applied on the Cora data, can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
+
 ### Deep Learning Model
 In this project we have used the MultiLayer Perceptron (MLP) with five fully connected layers which itslef is a parametric model.
 
