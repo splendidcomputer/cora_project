@@ -41,7 +41,7 @@ Mainly, we have two categories of classical machine learning models
 In this project we have used the MultiLayer Perceptron (MLP) with five fully connected layers which itslef is a parametric model.
 
 Neural networks do the feature extraction internally and achieve higher accuracy.
-Deep learning model architecture used in this project:
+Deep learning model architecture used in this project has the following architecture:
 Input	512	256	dropout	128	dropout	64	10	7
 
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
@@ -55,7 +55,7 @@ QDA: Features are colinear
 
 ##
 
-### Feature Extraction methods
+### Feature Selection methods
 
 Feature Extraction methods can be divied into two main categories:
 
