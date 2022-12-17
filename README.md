@@ -54,6 +54,8 @@ The comparison of the prediction results using classical machine learning modles
 
 https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv
 
+ ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
+
 
 ### Parametric vs non-parametric
 QDA: Features are colinear
