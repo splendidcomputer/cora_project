@@ -45,7 +45,7 @@ The code to execute the above mensioned methods applied on the Cora data, can be
 In this project we have used the [MultiLayer Perceptron (MLP)](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html) with five fully connected layers which itslef is a parametric model.
 
 Neural networks do the feature extraction internally and achieve higher accuracy.
-Deep learning model architecture used in this project has the following architecture:
+The architecture of the Deep Learning model used in this project is illustrated in the following figure:
 Input	512	256	dropout	128	dropout	64	10	7
 
  ![alt text](https://github.com/splendidcomputer/cora_project/blob/main/model_plot.png)
