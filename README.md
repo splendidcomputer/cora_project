@@ -55,7 +55,7 @@ The architecture of the Deep Learning model used in this project is illustrated 
  
 ## Results
 
-For this problem, in general, among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
+For this problem, in general, among classical machine learning models, non-parametric models perform slightly better than the parametric.
 
 You can see the whole prediction results in TSV files, containing all classifiction results in this [directory](https://github.com/splendidcomputer/cora_project/tree/main/Prediction_Results).
 
