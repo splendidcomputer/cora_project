@@ -15,14 +15,16 @@ Related Papers:
 ### Task
 The purpose of this project is to find the best machine learning algorithm to predict the scientific article classifications using the words availabe in the articles as features.
 
-## Applied classifiers
+## Applied Classifiers
 
-Classical Machine Learning Models
+The classifiers used in this project are:
+
+### Classical Machine Learning Models
 We have applied the sklearn library for the classical Machine Learning models.
 Mainly, we have two categories of classical machine learning models
-•	Parametric
-o	SVM, LDA, QDA	
-•	Nan-parametric 
+**Parametric**
+o	Support Vector Machine (SVM), Linear Discriminat Analysis (LDA), Quadratic Discriminat Analysis (QDA)	
+**Nan-parametric**
 RF, GNB, MNB, Bayes
 
 Parametric vs non-parametric
