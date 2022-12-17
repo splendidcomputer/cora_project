@@ -60,11 +60,15 @@ For this problem, in general, among classical machine learning models, non-param
 
 You can see the whole prediction results in TSV files, containing all classifiction results in this [directory](https://github.com/splendidcomputer/cora_project/tree/main/Prediction_Results).
 
+## Classical Machine Learning approaches
+
 The comparison of the prediction results using classical machine learning modles can be found through the following link:
 
 * [Comparsion of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
 
 As you can see the among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
+
+## Deepl Learning
 
 The classification Result using deep neural networks is also shown in the table below:
 
