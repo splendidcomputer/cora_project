@@ -1,4 +1,4 @@
-# cora_project
+# Cora_classification
 Classification of scientific publications using various classifiers.
 
 ## Dataset
