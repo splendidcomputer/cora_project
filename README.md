@@ -54,6 +54,8 @@ The comparison
 
 https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv
 
+[Model	Fold_1	Fold_2	Fold_3	Fold_4	Fold_5	Fold_6	Fold_7	Fold_8	Fold_9	Fold_10	Average](https://github.com/splendidcomputer/cora_project/blob/8039eb28d0de9da91953172d1d0f5022c59b5d20/Prediction_Results/ML_Test_ACC.tsv#L1-L12)
+
 
 ### Parametric vs non-parametric
 QDA: Features are colinear
