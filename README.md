@@ -21,7 +21,7 @@ We can divide the classifiers used in this project into two categories of classi
 
 ### Classical Machine Learning Models
 We have applied the [scikit-learn library](https://scikit-learn.org/stable/) for the classical machine learning models.
-Mainly, we have two categories of classical machine learning models
+Mainly, we have used two categories of classical machine learning models
 
 **Parametric**
 *	Linear Support Vector Machine (SVM);
