@@ -60,7 +60,7 @@ You can see the whole prediction results in TSV files, containing all classifica
 
 The comparison of the prediction results using classical machine learning models can be found through the following link:
 
-* [Comparsion of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
+* [Comparison of the Classical Machine Learning results](https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML_Test_ACC.tsv)
 
 As you can see among classical machine learning models, non-parametric models perform slightly better than parametric ones.
 
