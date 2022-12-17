@@ -56,6 +56,12 @@ https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/ML
 
 As you can see the among classical machine learning models, non-parametric models perfrom slightly better than the parametric.
 
+The classification Result using deep neural networks is also shown in the table below:
+
+https://github.com/splendidcomputer/cora_project/blob/main/Prediction_Results/NN_Test_ACC.tsv
+
+As you can see the deep learning model acheives more promising results as it comes internally with feature extraction layers which provide the classification layer with a well classwisely seperated space and therefore it acheives a higher accuracy in comparison with the classical models that do not have the feature extraction innately.
+
 
 ### Parametric vs non-parametric
 QDA: Features are colinear
