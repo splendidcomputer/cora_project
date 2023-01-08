@@ -76,6 +76,8 @@ As can be seen from the classification performance results, the deep learning mo
 
 ## Execution
 
+It is recommended to use __Google Colab__ to run this project.
+
 * The code to execute the __deep learning model__ applied to the Cora data can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
 
 * The code to execute the __classical methods__ applied to the Cora data can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
