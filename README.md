@@ -76,6 +76,6 @@ As can be seen from the classification performance results, the deep learning mo
 
 ## Execution
 
-* The code to execute the deep learning model applied to the Cora data can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
+* The code to execute the __deep learning model__ applied to the Cora data can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_NN.ipynb).
 
 * The code to execute the above-mentioned methods applied to the Cora data can be found [here](https://github.com/splendidcomputer/cora_project/blob/main/Cora_Classification_ClassicML.ipynb).
